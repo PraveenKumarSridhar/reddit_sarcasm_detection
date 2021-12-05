@@ -17,3 +17,4 @@ nltk
 swifter
 profanity-filter
 spacytextblob
+zeugma
