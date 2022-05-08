@@ -1,7 +1,7 @@
 Reddit Scarcasm Detection
 ==============================
 
-Using reddit data to detect sarcasm in the comments. The aim of our project is to detect if the comments in Reddit threads are sarcastic or not. Sarcasm detection is an arduous task, as it’s largely dependent on context, prior knowledge and the tone in which the sentence was spoken or written. It is crucial to know what exactly sarcasm is since its borders are not exactly well defined unlike in sentiment analysis where the sentiment categories are very clearly defined (”love” objectively has a positive sentiment, ”hate” a negative sentiment no matter who you ask or what language you speak).
+Using reddit data to detect sarcasm in the comments. The aim of our project is to detect if the comments in Reddit threads are sarcastic or not. Sarcasm detection is an arduous task, as it’s largely dependent on context, prior knowledge and the tone in which the sentence was spoken or written. It is crucial to know what exactly sarcasm is since its borders are not exactly well defined unlike in sentiment analysis where the sentiment categories are very clearly defined (”love” objectively has a positive sentiment, ”hate” a negative sentiment no matter who you ask or what language you speak). A sarcastic expression or comment can be defined as one that is caustic, bitter, or cutting. Sarcastic words are generally used to communicate the opposite of their surface meaning humorously or to mock someone or something. Although sarcasm is not always ironic, it might include ambivalence. Sarcasm is most perceptible in spoken words and is usually context-dependent. It is mostly identifiable by the inflection with which it is spoken.
 
 Dataset
 ==============================
